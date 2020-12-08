@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(129, 129, 128);
+}
+.jumbotron{
+    background-color: rgb(227, 230, 231);
+    font-family: cursive;
+    font-size: larger;
+    padding: 2%;
+}
+.btn{
+    font-size: 1rem;
+            display: inline-block;
+            padding: 20px 25px;
+            cursor: pointer;
+            background-color: rgb(0, 0, 0);
+            color: rgb(228, 213, 213);
+            border-radius: 100px;
+}
