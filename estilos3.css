@@ -16,3 +16,9 @@ body{
             color: rgb(228, 213, 213);
             border-radius: 100px;
 }
+p{
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: cursive;
+}
