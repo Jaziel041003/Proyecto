@@ -16,3 +16,21 @@ body{
                 color: rgb(228, 213, 213);
                 border-radius: 100px;
     }
+.container4 .btn{
+        font-size: 1rem;
+                display: inline-block;
+                padding: 18px 25px;
+                cursor: pointer;
+                background-color: rgb(0, 0, 0);
+                color: rgb(228, 213, 213);
+                border-radius: 100px;
+    }
+.container5 .btn{
+        font-size: 1rem;
+                display: inline-block;
+                padding: 18px 25px;
+                cursor: pointer;
+                background-color: rgb(0, 0, 0);
+                color: rgb(228, 213, 213);
+                border-radius: 100px;
+    }
